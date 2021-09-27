@@ -38,7 +38,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/JULIEMWOL-QR#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J-I-H-A-D/ElsaMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gmananthu3/ElsaMwol)
      </div>
      
      ## TERMUX SET UP
@@ -50,7 +50,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/gmananthu3/ElsaMwol
 $ cd ElsaMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -61,7 +61,7 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/gmananthu3/ElsaMwol
 $ cd ElsaMwol
 $ chmod +x *
 $ npm i
@@ -75,12 +75,12 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, J-I-H-A-D do not accept responsibility.
+Absolutely, gmananthu3 do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
 
 
-Project created by JIHAD to make it public
+Project created by JACK to make it public
 
 © Reserved
